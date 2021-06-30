@@ -1,0 +1,133 @@
+
+
+ color: wflflfl;
+  <p>Oi, eu sou o <b>Frederico</b> e estou <i>aprandendo a programar</i></p>
+
+
+
+  <div class="content">
+        <div class="row justify-content-md-center">
+            <div class="col-md-5">
+                <p>
+                    esse é o site que estou criando sssssssssssssss<br>
+                    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh<br> 
+                    
+                   
+                </p>
+
+                <button onclick="clicarNoBotão()">Botao Click</button>
+                <button onmouseover="alert('Mouse over')">over</button>
+                <button onmouseout="alert('Mouse out')">out</button>
+            
+            </div>    
+        </div>
+    </div>   
+
+
+      <div class="content">
+        <div class="row justify-content-md-center">
+            <div class="col-md-5">
+               KeyPress:
+               <input type="textbox" onkeypress="textKey(event)"
+            </div>    
+        </div>
+    </div>   
+    
+    <div class="content">
+        <div class="row justify-content-md-center">
+            <div class="col-md-5">
+               Charger
+               <input type="textbox" onchange="textCharger(event)">
+            </div>    
+        </div>
+    </div>  
+
+    <div class="row">
+                <div class="col-md-4">Boa noite</div>
+                <div class="col-md-4">Boa noite</div>
+                <div class="col-md-4">Boa noite</div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">Boa noite</div>
+                <div class="col-md-4">Boa noite</div>
+                <div class="col-md-4">Boa noite</div>
+            </div>
+        </div>
+
+    <div class="content">
+    <div class="row justify-content-md-center">
+        <div class="col-md-3">
+            <ul>
+                <li>lista 1</li>
+                <li>lista 2</li>
+                <li>lista 3</li>
+                <li>lista 4</li>
+            </ul>  
+        </div>
+        <div class="col-md-3">
+            <ol>
+                <li>lista cordenada 1</li>
+                <li>lista cordenada 2</li>
+                <li>lista cordenada 3</li>
+                <li>lista cordenada 4</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+<div class="content"> 
+    <div class="row">
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+    </div>
+</div>
+
+
+<div class="content"> 
+    <div class="row">
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+        <div class="col-md-4">Boa noite</div>
+    </div>
+</div>
+
+
+<table border="3">
+        <tr>
+            <td>
+                <a href="https://www.youtube.com/watch?v=pNFRuHyntW0">Video engraçado</a>
+            </td>
+            <td>abc</td>
+            <td>abc</td>
+        </tr>
+        <tr>
+            <td>
+                <img
+                    src="https://pbs.twimg.com/profile_images/1211818591458344960/lKSlP5rN_400x400.jpg">
+
+            </td>
+            <td>abc</td>
+            <td>abc</td>
+        </tr>
+    </table>
